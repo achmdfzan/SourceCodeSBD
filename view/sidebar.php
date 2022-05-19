@@ -8,9 +8,12 @@
         </li>
         <li>
             <a href="../laundry-keluar"><span class="glyphicon glyphicon-list-alt"></span> Data Dosen</a>
-        </li>        
+        </li>
         <li>
             <a href="../tentang"><span class="glyphicon glyphicon-th"></span> Tentang Program MBKM</a>
+        </li>
+        <li>
+            <a href="../admin-daftar_program_mbkm"><span class="glyphicon glyphicon-th"></span> Daftar Program MBKM</a>
         </li>
     </ul>
 </div>

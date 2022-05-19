@@ -3,6 +3,10 @@ body {
 	background: #F5F5F5;
 }
 
+.form-control {
+	border: none;
+}
+
 /* Link */
 .mail a {
 	text-decoration: none;

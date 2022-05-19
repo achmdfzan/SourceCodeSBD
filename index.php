@@ -60,6 +60,9 @@ $username = $_SESSION["user"];
                 <li>
                     <a href="tentang"><span class="glyphicon glyphicon-th"></span> Tentang Program MBKM</a>
                 </li>
+                <li>
+                    <a href="admin-daftar_program_mbkm"><span class="glyphicon glyphicon-th"></span> Daftar Program MBKM</a>
+                </li>
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
@@ -86,6 +89,8 @@ $username = $_SESSION["user"];
 
     </div>
     <!-- /#wrapper -->
+    <script src="js/jquery-1.12.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
     <script>
         $("#menu-toggle").click(function(e) {
@@ -95,8 +100,6 @@ $username = $_SESSION["user"];
     </script>
     ?>
 
-    <script src="js/jquery-1.12.3.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>
