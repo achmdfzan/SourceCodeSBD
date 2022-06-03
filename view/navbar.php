@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-fixed-top navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
             <a class="navbar-brand" href="#menu-toggle" id="menu-toggle">Merdeka Belajar : Kampus Merdeka</a>
@@ -13,7 +13,7 @@
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a href="../login/logout.php">Log Out <span class="glyphicon glyphicon-off"></span></a></li>
+                    <li><a href="../../../login/logout.php">Log Out <span class="glyphicon glyphicon-off"></span></a></li>
                 </ul>
             </li>
         </ul>
