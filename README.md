@@ -1,3 +1,5 @@
+Halo ini ojan aowkwawokwkwkwk
+
 # Laundry Crafty
 Laundry Crafty merupakan sebuah sistem informasi sederhana berbasis web.<br />
 Laundry Crafty juga merupakan contoh aplikasi web CRUD sederhana dengan PHP dan MySQL.<br />
